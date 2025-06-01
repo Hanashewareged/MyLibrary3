@@ -1,4 +1,4 @@
-#  Hana Shewareged DBU1501644 MyLibrary3
+#  Hana Shewareged DBU1501644 
 #  MyLibrary3 - WinForms Desktop Application
 
 I used Gemini AI, ChatGPT to assist me in understanding C# and solving problems. All the code is written by me and reflects my own understanding. This project took about a week to complete, and I worked very hard on it. 
@@ -11,6 +11,7 @@ Features
 - Default user:  
   - Username: admin  
   - Password: admin123
+  
  Book Management
 - Add, edit, delete, and view books  
 - Fields: Title, Author, Year, TotalCopies, AvailableCopies  
